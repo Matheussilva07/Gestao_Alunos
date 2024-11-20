@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestao_Alunos", "Gestao_Alunos\Gestao_Alunos.csproj", "{7F598B3C-88FE-416E-8CA1-0891F5B206AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbContext", "DbContext\DbContext.csproj", "{1AE92C92-5179-480B-B007-BBCD8823F44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F598B3C-88FE-416E-8CA1-0891F5B206AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F598B3C-88FE-416E-8CA1-0891F5B206AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F598B3C-88FE-416E-8CA1-0891F5B206AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F598B3C-88FE-416E-8CA1-0891F5B206AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE92C92-5179-480B-B007-BBCD8823F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE92C92-5179-480B-B007-BBCD8823F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE92C92-5179-480B-B007-BBCD8823F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE92C92-5179-480B-B007-BBCD8823F44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A43ECBA-8E16-43A2-94B7-B073B64A5E41}
+	EndGlobalSection
+EndGlobal
